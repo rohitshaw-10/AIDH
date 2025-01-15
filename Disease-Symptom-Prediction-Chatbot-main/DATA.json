@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "Name": "nirbhay",
+            "Age": 25,
+            "Gender": "male",
+            "Disease": "Dengue",
+            "Sympts": [
+                "back_pain",
+                "headache",
+                "vomiting",
+                "fatigue",
+                "high_fever",
+                "nausea",
+                "loss_of_appetite",
+                "muscle_pain",
+                "red_spots_over_body"
+            ]
+        },
+        {
+            "Name": "chandam bhai",
+            "Age": 61,
+            "Gender": "female",
+            "Disease": "Jaundice",
+            "Sympts": [
+                "high_fever",
+                "high_fever",
+                "vomiting",
+                "fatigue",
+                "weight_loss",
+                "yellowish_skin",
+                "dark_urine",
+                "abdominal_pain"
+            ]
+        }
+    ]
+}
